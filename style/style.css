@@ -69,6 +69,7 @@ header ul li button:hover {
 }
 
 main {
+  background: url(/images/background.png);
   background-size: cover;
   background-position: center;
   height: 100vh;
